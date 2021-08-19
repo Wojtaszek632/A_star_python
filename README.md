@@ -1,4 +1,6 @@
+
 # A_star_python
  A* path finding algorythm in python. User can draw obstacles, set starting position and end goal.
- ![Zrzut ekranu 2021-02-07 204701](https://user-images.githubusercontent.com/69490354/129453014-a56c1252-20fe-41cc-a3a1-2673b99cf320.png)
+![gif`](https://user-images.githubusercontent.com/69490354/130090989-f6dc9ef2-268b-48e3-89b7-f456abd346ce.gif)
+
 
